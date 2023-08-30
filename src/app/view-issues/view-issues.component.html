@@ -1,0 +1,7 @@
+<div *ngFor="let issue of issues">
+    <h3>{{ issue.title }}</h3>
+    <p>{{ issue.description }}</p>
+    <button routerLink="/delete/{{ issue.id }}">Delete</button>
+    <hr>
+  </div>
+  

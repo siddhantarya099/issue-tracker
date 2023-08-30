@@ -1,0 +1,19 @@
+{
+  "issues": [
+    {
+      "id": 1,
+      "title": "Sample Issue 1",
+      "description": "This is the description of sample issue 1."
+    },
+    {
+      "id": 2,
+      "title": "Sample Issue 2",
+      "description": "This is the description of sample issue 2."
+    },
+    {
+      "title": "New Issue",
+      "description": "This is a new issue description.",
+      "id": 4
+    }
+  ]
+}
